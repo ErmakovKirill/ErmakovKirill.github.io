@@ -1,0 +1,160 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="pcinourlife.com" resolutions="1x" timestamp="1554060516798">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_maket-1.css" crc="4249969440" ref="help:computer:information:since:index"/>
+    <file name="help.css" crc="3844792383" ref="help"/>
+    <file name="computer.css" crc="91571854" ref="computer"/>
+    <file name="information.css" crc="4018908687" ref="information"/>
+    <file name="since.css" crc="456633341" ref="since"/>
+    <file name="index.css" crc="3792365744" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="information:index:computer:help:since"/>
+    <file name="museutils.js" crc="3803043152" ref="information:index:computer:help:since"/>
+    <file name="whatinput.js" crc="86476730" ref="information:index:computer:help:since"/>
+    <file name="museconfig.js" crc="380897831" ref="information:index:computer:help:since"/>
+    <file name="jquery.watch.js" crc="99325471" ref="information:index:computer:help:since"/>
+    <file name="webpro.js" crc="242022427" ref="information:computer:since"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="information:computer"/>
+    <file name="require.js" crc="4157109226" ref="information:index:computer:help:since"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="computer:since"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="computer:since"/>
+    <file name="touchswipe.js" crc="4066113679" ref="computer:since"/>
+  </folder>
+  <folder name="images">
+    <file name="кп2.jpg" crc="222465706" seo="true" ref="information:index:computer:help:since">
+      <caption webpage="information" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="computer" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="кп4.jpg" crc="4269476296" seo="true" ref="information:index:computer:help:since">
+      <caption webpage="information" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="computer" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="a3ed41d78d3f3fb3209767582032acab.jpg" crc="227159138" seo="true" ref="information:index:computer:help:since">
+      <caption webpage="information" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="computer" alt=""/>
+      <caption webpage="help" alt=""/>
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="калашь9.jpg" crc="3914519389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь2.jpg" crc="4062345114" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь6.jpg" crc="3809281366" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь8.jpg" crc="4057438528" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь10.jpg" crc="4017333503" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь3.jpg" crc="3770340914" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь1.jpg" crc="4052182967" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь5.jpg" crc="241012813" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь7.jpg" crc="4273418411" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="калашь4.jpg" crc="4128752639" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="машина бабиджа.jpg" crc="4173002026" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="бабидж.jpg" crc="105901700" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="eniac.jpg" crc="157893249" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="цузе.jpg" crc="4219216478" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="морис уилксон.jpg" crc="4027604423" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="лебедев.jpg" crc="234197614" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="эвм м-20.jpg" crc="270893894" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="транзистор2.jpg" crc="90047557" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="atlas.jpg" crc="3989437648" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="схема2.jpg" crc="4222005269" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="яблоко 1.jpg" crc="4169149246" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="топ пк2.jpg" crc="3933637333" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="атлас.jpg" crc="3956543585" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="томограф.jpg" crc="344918718" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="автомат сборка.jpg" crc="3768227233" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="микроскоп2.jpg" crc="441459119" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="комп в образовании.jpg" crc="3789068064" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="в быту2.jpg" crc="373863128" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="sarmat.jpg" crc="117364375" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="интернет.jpg" crc="127096238" seo="true" ref="computer">
+      <caption webpage="computer" alt=""/>
+    </file>
+    <file name="maxresdefault-crop-u10260.jpg" crc="57657208" seo="true" ref="since">
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="since"/>
+    <file name="использование школы-crop-u10258.jpg" crc="3869151530" seo="true" ref="since">
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="since"/>
+    <file name="финал.jpg" crc="463813486" seo="true" ref="since">
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="время работы раб-crop-u10339.jpg" crc="124997609" seo="true" ref="since">
+      <caption webpage="since" alt=""/>
+    </file>
+    <file name="использование раб-crop-u10341.jpg" crc="4043436850" seo="true" ref="since">
+      <caption webpage="since" alt=""/>
+    </file>
+  </folder>
+  <file name="information.html" crc="301369940" seo="true" mt="1553069889150" redirect="true"/>
+  <file name="index.html" crc="4227030262" seo="true" mt="1553069746719" redirect="true"/>
+  <file name="computer.html" crc="4180286096" seo="true" mt="1553069850628" redirect="true"/>
+  <file name="help.html" crc="144385987" seo="true" mt="1553069877766" redirect="true"/>
+  <file name="since.html" crc="4279839684" seo="true" mt="1553069755494" redirect="true"/>
+</manifest>
